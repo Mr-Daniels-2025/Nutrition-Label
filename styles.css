@@ -78,5 +78,5 @@ p {
 }
 
 .right {
-  justify-content: right;
+  justify-content: flex-end;
 }
